@@ -1,0 +1,37 @@
+#navbar{
+    width: 100%;
+    display: flex;
+  }
+  #navbar h1{
+    margin-left: 2%;
+    margin-right: 10%;
+  }
+  #search_input{
+    font-size: 25px;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 1%;
+  }
+  #sidebar h3{
+    cursor: pointer;
+  }
+  #container{
+    display: flex;
+    margin-top: 3%;
+  }
+  #sidebar{
+    width: 15%;
+  }
+  #results{
+    width: 80%;
+    margin: auto;
+  }
+  .news > img{
+    width: 100%;
+    height: 200px;
+  }
+  .news{
+    cursor: pointer;
+    border: 1px solid purple;
+    margin-bottom: 2%;
+  }
